@@ -24,7 +24,7 @@ seen in a serial monitor on a connected pc.
       So we have to take highest preffered value.So I take 220 ohm as resistor
       
       
- ### Schematic and Circuit Design 
+ ### 3.Schematic and Circuit Design 
  https://github.com/rueben593/flicker-fusion-assignment/blob/master/flicker%20fusion%20assignment/assignment%20flicker_bb.png
  https://github.com/rueben593/flicker-fusion-assignment/blob/master/flicker%20fusion%20assignment/assignment%20flicker_schem.png
      
@@ -34,14 +34,14 @@ seen in a serial monitor on a connected pc.
   ### Working Explanation
    https://youtu.be/PA1jcw09-kA 
       
-   ###  Conclusion
+   ###  4.Conclusion
    
    **This project helps me to find Person's subjective flicker fusion threshold.It also helps me to learn about teensy 3.2 micro controller.Also learn about the softwares such as ardruino ,visual studio code and git hub .
    
    **Limitations 
    ** In some conditions we can see that serial plotter getting different values.In that cases values are not accurate.
    
-   ###   References
+   ###   5.References
    ** Wikipedia - https://en.wikipedia.org/wiki/Flicker_fusion_threshold
       Arudruino.cc
       
