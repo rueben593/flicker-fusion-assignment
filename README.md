@@ -27,9 +27,7 @@ seen in a serial monitor on a connected pc.
  ### Schematic and Circuit Design 
  (https://github.com/rueben593/flicker-fusion-assignment/blob/master/flicker%20fusion%20assignment/assignment%20flicker_schem.png)![\]!\[(https://github.com/rueben593/flicker-fusion-assignment/blob/master/flicker%20fusion%20assignment/assignment%20flicker_bb.png)](https://github.com/rueben593/flicker-fusion-assignment/blob/master/flicker%20fusion%20assignment/assignment%20flicker_schem.png)
    ## Output
-      [(https://github.com/rueben593/flicker-fusion-assignment/blob/master/flicker fusion assignment/assignment flicker_schem.png)
-      
-      
+     ![https://github.com/rueben593/flicker-fusion-assignment/blob/master/flicker%20fusion%20assignment/frequency.png](https://github.com/rueben593/flicker-fusion-assignment/blob/master/flicker%20fusion%20assignment/frequency.png)
       
       
   ### Working Explanation
